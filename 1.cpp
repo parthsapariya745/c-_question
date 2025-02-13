@@ -10,5 +10,5 @@
 //    c / c++ translator using compiler
 
 // -> Difference between Compiler and Interpreter
-// >> Compiler : compiler is convert full code of the binary
-// >> Interpreter : Interpreter is convert line by line code of the binary
+// >> Compiler : compiler is convert whole program of the binary
+// >> Interpreter : Interpreter is convert line by line program of the binary
